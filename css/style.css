@@ -1,0 +1,24 @@
+/*Global*/
+i{
+    font-style: italic;
+    font-size: 24px;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Signika', sans-serif;
+    font-size: 36px;
+}
+
+body {
+    margin: 50px 0px;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    background: #fff;
+    color: #747d8c; }
+
+p {
+    padding: 20px 400px;
+}
