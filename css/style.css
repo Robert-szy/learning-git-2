@@ -28,4 +28,18 @@ footer {
     padding-left: 400px;
     font-size: 10px;
     text-align: left;
+    background-color: lightseagreen;
+    color: black;
+
+}
+
+/*Title*/
+.title h1 {
+    background-color: cadetblue;
+    color: black;
+}
+
+/*Content*/
+.content {
+    background-color: lightgray;
 }
