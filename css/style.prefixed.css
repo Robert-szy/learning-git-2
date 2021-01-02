@@ -42,5 +42,6 @@ footer {
 /*Content*/
 .content {
     background-color: lightgray;
+    display: -ms-flexbox;
     display: flex;
 }
